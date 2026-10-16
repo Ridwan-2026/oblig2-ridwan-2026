@@ -31,6 +31,10 @@
     text-decoration: none;
     margin: 0 8px;
  }
+ nav a:hover, nav a:focus-visible {
+     text-decoration: underline;
+ }
+
  .hero {
     display: flex;
     justify-content: center;
