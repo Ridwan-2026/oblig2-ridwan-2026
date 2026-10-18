@@ -143,5 +143,7 @@
        text-align: center;
        padding: 14px 0;
     }
-
+ button:hover {
+     background-color: #2563eb;
+ }
 
